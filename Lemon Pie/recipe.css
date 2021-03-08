@@ -1,0 +1,26 @@
+body{
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamond, sans-serif;
+}
+h2{
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family:  'Lucida Sans Unicode', 'Helvetica', 'Arial' , 'sans-serif';
+}
+.mainh{
+    text-align: center;
+    font-size: 22pt;
+    text-decoration: underline;
+}
+.subh{
+    text-align: left;
+    font-size: 18pt;
+    text-decoration: underline;
+}
+.list1{
+    list-style: none;
+}
+.list2{
+    list-style-image: url("pie_icon.gif");
+}
